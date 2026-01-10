@@ -24,15 +24,3 @@
 ### 🔧 Tools & Hardware
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![FigJam](https://img.shields.io/badge/FigJam-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Quickbase](https://img.shields.io/badge/Quickbase-7448c2?style=for-the-badge&logo=quickbase&logoColor=white)
 
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=claudia034&theme=tokyonight&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=claudia034&icon=0&color=0" alt="Views" />
-</p>
